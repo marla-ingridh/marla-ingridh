@@ -1,8 +1,8 @@
 ### Olá 👋
 
 
-- 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript, Java e C.
-- 🤔 Estou procurando ajuda com JavaScript e Java.
+- 🔭 Formada em Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente estou aprendendo Java com foco em back end.
+- 🤔 Estou procurando ajuda com  Java.
 - 📫 Como me encontrar: @marla-ingridh, marla.ingridh@gmail.com.
 
