@@ -11,7 +11,7 @@
 
 Olá! Sou a Marla Ingridh, desenvolvedora com experiência em **Front-end e Back-end**, **APIs RESTful**, **SQL**, **Power BI** e **ambientes em nuvem (AWS)**. Atuei em projetos que vão desde suporte técnico até construção de painéis interativos e integrações robustas entre sistemas.
 
-Atualmente, estou aprofundando meus estudos em **Java** e me preparando para **concursos públicos na área de TI**, com foco em órgãos federais e militares.
+Atualmente, estou aprofundando meus estudos em **Fotografia Computacional**.
 
 ---
 
